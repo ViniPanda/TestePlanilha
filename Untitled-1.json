@@ -1,5 +1,4 @@
 [
-  { "nome": "João", "expira": "2025-09-21" },
-  { "nome": "Maria", "expira": "2025-09-21" },
-  { "nome": "Pedro", "expira": "2025-09-21" }
+  { "nome": "João", "expira": "2025-09-21", "dias_restantes": 31 },
+  { "nome": "Maria", "expira": "2025-09-21", "dias_restantes": 31 }
 ]
